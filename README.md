@@ -5,11 +5,12 @@
 
 🎓 Учусь в ИТМО на направлении Системное и Прикладное Программное Обеспечение --> СППО
 
+🖌️ Люблю рисовать в свободное время
+
 ☕ Основной язык: Java
 
 🌍 Языки: русский, английский, немецкий
 
-<p align="center"> <img src="assets/5415854869094014519.jpg" width="380" /> </p>
 🛠 Инструменты которыми я пользуюсь:
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,postgres,docker,git,maven,gradle,linux,idea&perline=7" alt="Стек" /> </p> <p align="center"> <sub>Изучаю прямо сейчас:</sub><br/> <img src="https://skillicons.dev/icons?i=c,vue&perline=4" alt="Изучаю" /> </p>
