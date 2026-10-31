@@ -1,6 +1,6 @@
 
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Привет,%20я%20Назерке!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20•%20студент%20ИТМО&descSize=20&descAlignY=60" alt="Приветствие" width="100%" /> </p> <p align="center"> <a href="https://github.com/Poulogy"> </a> </p> <p align="center"> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Привееееееееет,%20я%20Назерке!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=студент%20ИТМО&descSize=20&descAlignY=60" alt="Приветствие" width="100%" /> </p> <p align="center"> <a href="https://github.com/Poulogy"> </a> </p> <p align="center"> </p>
 👨‍💻 Немного обо мне
 🎓 Учусь в ИТМО, на направление Системное и прикладное программное обеспечение.
 ☕ Основной язык: Java
