@@ -9,9 +9,9 @@
 
 🌍 Языки: русский, английский, немецкий
 
-🛠 Мой стек:
+🛠 Инструменты которыми я пользуюсь:
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,javascript,python,spring,react,hibernate,postgres,docker,git,maven,gradle,linux,idea&perline=7" alt="Стек" /> </p> <p align="center"> <sub>Изучаю прямо сейчас:</sub><br/> <img src="https://skillicons.dev/icons?i=c,vue&perline=4" alt="Изучаю" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,postgres,docker,git,maven,gradle,linux,idea&perline=7" alt="Стек" /> </p> <p align="center"> <sub>Изучаю прямо сейчас:</sub><br/> <img src="https://skillicons.dev/icons?i=c,vue&perline=4" alt="Изучаю" /> </p>
 ⭐ Избранные проекты
 <table align="center"> <tr> <td width="50%" valign="top"> <h3>🎓 ИТМО: учебные работы</h3> <p>👉 <a href="https://github.com/Poulogy/ITMO"><b>Открыть репозиторий</b></a></p> </td> <td width="50%" valign="top"> <h3>🌐 Мой веб-сайт</h3> <p>Личный сайт-портфолио: немного рисунков.</p> <p>👉 <a href="https://github.com/Poulogy/art-website"><b>Код</b></a> • <a href="https://my-art-web-site.duckdns.org/"><b>Открыть сайт</b></a></p> </td> </tr> </table>
 
